@@ -231,7 +231,6 @@
     <string name="nc_last_modified">%1$s | Nazadnje spremenjeno: %2$s</string>
     <string name="nc_leave">Zapusti pogovor</string>
     <string name="nc_leaving_call">Poteka prekinjanje klica …</string>
-    <string name="nc_license_summary">Splošno Javno dovoljenje GNU GPL, različice 3</string>
     <string name="nc_license_title">Dovoljenje</string>
     <string name="nc_limit_hit">Dosežena je omejite %s znakov.</string>
     <string name="nc_lobby">Spletna čakalnica</string>

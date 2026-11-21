@@ -212,7 +212,6 @@
     <string name="nc_last_modified">%1$s Τελευταία τροποποίηση %2$s</string>
     <string name="nc_leave">Εγκατάλειψη συνομιλίας</string>
     <string name="nc_leaving_call">Αποχώρηση από την κλήση ...</string>
-    <string name="nc_license_summary">Γενική Άδεια Δημόσιας Χρήσης GNU, έκδοση 3</string>
     <string name="nc_license_title">Άδεια χρήσης</string>
     <string name="nc_limit_hit">Το όριο %s χαρακτήρων έχει συμπληρωθεί</string>
     <string name="nc_lobby">Αναμονή</string>

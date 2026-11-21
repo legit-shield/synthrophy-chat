@@ -207,7 +207,6 @@
     <string name="nc_last_modified">%1$s | Posljednja izmjena: %2$s</string>
     <string name="nc_leave">Napusti razgovor</string>
     <string name="nc_leaving_call">Napuštanje poziva …</string>
-    <string name="nc_license_summary">Opća javna licenca za GNU, verzija 3.</string>
     <string name="nc_license_title">Licenca</string>
     <string name="nc_limit_hit">Dostignuto je ograničenje od %s znakova</string>
     <string name="nc_lobby">Predvorje</string>

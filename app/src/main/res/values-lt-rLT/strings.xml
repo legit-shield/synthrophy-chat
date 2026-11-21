@@ -334,7 +334,6 @@
     <string name="nc_last_modified">%1$s | Paskutinį kartą modifikuota: %2$s</string>
     <string name="nc_leave">Išeiti iš pokalbio</string>
     <string name="nc_leaving_call">Išeinama iš skambučio …</string>
-    <string name="nc_license_summary">GNU Bendroji Viešoji Licencija, Versija 3</string>
     <string name="nc_license_title">Licencija</string>
     <string name="nc_limit_hit">Pasiekta %s simbolių riba</string>
     <string name="nc_lobby">Laukimo salė</string>
@@ -602,7 +601,7 @@
     <string name="nc_shared_location">Bendrinta vieta</string>
     <string name="nc_shortcut_conversation_deleted">Šio pokalbio jau nebėra</string>
     <string name="nc_shortcut_created">Sukurtas sparčiojo paleidimo mygtukas</string>
-    <string name="nc_show_ecosystem_description">„Nextcloud“ programėlės pasiūlymai paskyros pasirinkimo dialogo lange</string>
+    <string name="nc_show_ecosystem_description">„Synthrophy Office“ programėlės pasiūlymai paskyros pasirinkimo dialogo lange</string>
     <string name="nc_show_ecosystem_title">Rodyti programėllių perjungiklį</string>
     <string name="nc_show_notification_warning_description">Jei pranešimai nėra tinkamai sukonfigūruoti, rodyti įprastą įspėjimą</string>
     <string name="nc_show_notification_warning_title">Rodyti įprastą įspėjimą</string>

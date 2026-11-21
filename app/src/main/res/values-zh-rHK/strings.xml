@@ -353,7 +353,6 @@
     <string name="nc_last_modified">%1$s | 上次修改時間：%2$s</string>
     <string name="nc_leave">結束對話</string>
     <string name="nc_leaving_call">正在離開通話 …</string>
-    <string name="nc_license_summary">GNU General Public License， 第3版</string>
     <string name="nc_license_title">授權</string>
     <string name="nc_limit_hit">已達到%s個字符的限制</string>
     <string name="nc_lobby">等候室</string>
@@ -628,7 +627,7 @@
     <string name="nc_shared_location">分享了的位置</string>
     <string name="nc_shortcut_conversation_deleted">此對話不存在</string>
     <string name="nc_shortcut_created">已建立捷徑</string>
-    <string name="nc_show_ecosystem_description">在帳戶選擇對話框中顯示 Nextcloud 應用程式建議</string>
+    <string name="nc_show_ecosystem_description">在帳戶選擇對話框中顯示 Synthrophy Office 應用程式建議</string>
     <string name="nc_show_ecosystem_title">顯示應用程式切換器</string>
     <string name="nc_show_notification_warning_description">當通知未正確設置時，顯示常規警告。</string>
     <string name="nc_show_notification_warning_title">顯示常規警告。</string>

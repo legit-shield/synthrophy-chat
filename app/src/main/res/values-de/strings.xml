@@ -353,7 +353,6 @@
     <string name="nc_last_modified">%1$s | Zuletzt geändert: %2$s</string>
     <string name="nc_leave">Unterhaltung verlassen</string>
     <string name="nc_leaving_call">Verlasse Anruf …</string>
-    <string name="nc_license_summary">GNU General Public Lizenz, Version 3</string>
     <string name="nc_license_title">Lizenz</string>
     <string name="nc_limit_hit">%s-Zeichen-Limit wurde erreicht</string>
     <string name="nc_lobby">Lobby</string>
@@ -628,7 +627,7 @@
     <string name="nc_shared_location">Geteilter Ort</string>
     <string name="nc_shortcut_conversation_deleted">Diese Unterhaltung existiert nicht mehr</string>
     <string name="nc_shortcut_created">Tastaturkürzel erstellt</string>
-    <string name="nc_show_ecosystem_description">Nextcloud-App-Vorschläge im Konten-Auswahldialog</string>
+    <string name="nc_show_ecosystem_description">Synthrophy Office-App-Vorschläge im Konten-Auswahldialog</string>
     <string name="nc_show_ecosystem_title">App-Umschalter anzeigen</string>
     <string name="nc_show_notification_warning_description">Wenn Benachrichtigungen nicht korrekt konfiguriert sind, zeige regelmäßig eine Warnung</string>
     <string name="nc_show_notification_warning_title">Zeige regelmäßige Benachrichtigungswarnung</string>

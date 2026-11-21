@@ -316,7 +316,6 @@
     <string name="nc_last_modified">%1$s | Последнее изменение: %2$s</string>
     <string name="nc_leave">Покинуть обсуждение</string>
     <string name="nc_leaving_call">Завершение вызова …</string>
-    <string name="nc_license_summary">Открытое лицензионное соглашение GNU, версия 3</string>
     <string name="nc_license_title">Лицензия</string>
     <string name="nc_limit_hit">Достигнуто ограничение в %s знаков</string>
     <string name="nc_lobby">Лобби</string>
@@ -555,7 +554,7 @@
     <string name="nc_shared_location">Опубликованы сведения о местоположении</string>
     <string name="nc_shortcut_conversation_deleted">Этот разговор больше не существует</string>
     <string name="nc_shortcut_created">Ярлык создан</string>
-    <string name="nc_show_ecosystem_description">Предложения приложений Nextcloud в диалоговом окне выбора учётной записи</string>
+    <string name="nc_show_ecosystem_description">Предложения приложений Synthrophy Office в диалоговом окне выбора учётной записи</string>
     <string name="nc_show_ecosystem_title">Показать переключатель приложений</string>
     <string name="nc_show_notification_warning_description">Периодически предупреждать о некорректной настройке уведомлений</string>
     <string name="nc_show_notification_warning_title">Периодически выводить предупреждение об уведомлениях</string>

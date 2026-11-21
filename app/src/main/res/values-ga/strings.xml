@@ -353,7 +353,6 @@
     <string name="nc_last_modified">%1$s | Athraithe is déanaí: %2$s</string>
     <string name="nc_leave">Fág an comhrá</string>
     <string name="nc_leaving_call">Ag fágáil an ghlao…</string>
-    <string name="nc_license_summary">Ceadúnas Ginearálta Poiblí GNU, Leagan 3</string>
     <string name="nc_license_title">Ceadúnas</string>
     <string name="nc_limit_hit">Tá teorainn %s carachtar buailte</string>
     <string name="nc_lobby">Stocaireacht</string>
@@ -628,7 +627,7 @@
     <string name="nc_shared_location">Suíomh roinnte</string>
     <string name="nc_shortcut_conversation_deleted">Níl an comhrá seo ann a thuilleadh</string>
     <string name="nc_shortcut_created">Aicearra cruthaithe</string>
-    <string name="nc_show_ecosystem_description">Moltaí aip Nextcloud i ndialóg roghnóra cuntais</string>
+    <string name="nc_show_ecosystem_description">Moltaí aip Synthrophy Office i ndialóg roghnóra cuntais</string>
     <string name="nc_show_ecosystem_title">Taispeáin athróir aip</string>
     <string name="nc_show_notification_warning_description">Nuair nach bhfuil fógraí socraithe i gceart, taispeáin rabhadh rialta</string>
     <string name="nc_show_notification_warning_title">Taispeáin rabhadh fógra rialta</string>

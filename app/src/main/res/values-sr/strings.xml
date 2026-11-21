@@ -293,7 +293,6 @@
     <string name="nc_last_modified">%1$s | Последње измењено: %2$s</string>
     <string name="nc_leave">Напусти разговор</string>
     <string name="nc_leaving_call">Напуштање позива ...</string>
-    <string name="nc_license_summary">ГНУ општа јавна лиценца, верзија 3</string>
     <string name="nc_license_title">Лиценца</string>
     <string name="nc_limit_hit">Достигнут је лимит од %s карактера</string>
     <string name="nc_lobby">Лоби</string>

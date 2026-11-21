@@ -316,7 +316,6 @@
     <string name="nc_last_modified">%1$s | Utoljára módosítva: %2$s</string>
     <string name="nc_leave">Beszélgetés elhagyása</string>
     <string name="nc_leaving_call">Hívás elhagyása…</string>
-    <string name="nc_license_summary">GNU General Public License, Version 3</string>
     <string name="nc_license_title">Licenc</string>
     <string name="nc_limit_hit">%s karakteres korlát elérve</string>
     <string name="nc_lobby">Váró</string>
@@ -555,7 +554,7 @@
     <string name="nc_shared_location">Hely megosztva</string>
     <string name="nc_shortcut_conversation_deleted">A beszélgetés már nem létezik</string>
     <string name="nc_shortcut_created">Indítóikon létrehozva</string>
-    <string name="nc_show_ecosystem_description">Nextcloud alkalmazásjavaslatok a fiókválasztó párbeszédablakban</string>
+    <string name="nc_show_ecosystem_description">Synthrophy Office alkalmazásjavaslatok a fiókválasztó párbeszédablakban</string>
     <string name="nc_show_ecosystem_title">Alkalmazásváltó megjelenítése</string>
     <string name="nc_show_notification_warning_description">Szokásos figyelmeztetés megjelenítése, ha az értesítések nincsenek helyesen beállítva</string>
     <string name="nc_show_notification_warning_title">Szokásos értesítési figyelmeztetés megjelenítése</string>

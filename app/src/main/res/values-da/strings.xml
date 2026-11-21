@@ -333,7 +333,6 @@
     <string name="nc_last_modified">%1$s| Sidst ændret: %2$s</string>
     <string name="nc_leave">Forlad samtale</string>
     <string name="nc_leaving_call">Forlader opkaldet ...</string>
-    <string name="nc_license_summary">GNU General Public License, Version 3</string>
     <string name="nc_license_title">Licens</string>
     <string name="nc_limit_hit">%skarakterbegrænsning nået</string>
     <string name="nc_lobby">Lobby</string>
@@ -601,7 +600,7 @@
     <string name="nc_shared_location">Delt placering</string>
     <string name="nc_shortcut_conversation_deleted">Denne samtale eksisterer ikke længere</string>
     <string name="nc_shortcut_created">Genvej oprettet</string>
-    <string name="nc_show_ecosystem_description">Nextcloud app- forslag i kontovælgerdialogen</string>
+    <string name="nc_show_ecosystem_description">Synthrophy Office app- forslag i kontovælgerdialogen</string>
     <string name="nc_show_ecosystem_title">Vis app skifter</string>
     <string name="nc_show_notification_warning_description">Når notifikationer ikke er opsat korrekt, så vis en regulær advarsel</string>
     <string name="nc_show_notification_warning_title">Vis regulær notifikationsadvarsel</string>

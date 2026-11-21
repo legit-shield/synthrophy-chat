@@ -274,7 +274,6 @@
     <string name="nc_last_modified">%1$s | Darrera modificació: %2$s</string>
     <string name="nc_leave">Surt de la conversa</string>
     <string name="nc_leaving_call">S\'està abandonant la trucada…</string>
-    <string name="nc_license_summary">Llicència Pública General de GNU, Versió 3</string>
     <string name="nc_license_title">Llicència</string>
     <string name="nc_limit_hit">S\'ha arribat al límit de %s caràcters </string>
     <string name="nc_lobby">Vestíbul</string>

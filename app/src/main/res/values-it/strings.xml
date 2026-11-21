@@ -292,7 +292,6 @@
     <string name="nc_last_modified">%1$s | Ultima modifica: %2$s</string>
     <string name="nc_leave">Lascia la conversazione</string>
     <string name="nc_leaving_call">Chiusura della chiamata in corso …</string>
-    <string name="nc_license_summary">GNU General Public License, versione 3</string>
     <string name="nc_license_title">Licenza</string>
     <string name="nc_limit_hit">Il limite di %s caratteri è stato raggiunto</string>
     <string name="nc_lobby">Ingresso</string>
@@ -517,7 +516,7 @@
     <string name="nc_shared_items_empty">Nessun elemento condiviso</string>
     <string name="nc_shared_items_location">Posizione</string>
     <string name="nc_shared_location">Posizione condivisa</string>
-    <string name="nc_show_ecosystem_description">Suggerimenti per le app Nextcloud nella finestra di dialogo di selezione dell\'account</string>
+    <string name="nc_show_ecosystem_description">Suggerimenti per le app Synthrophy Office nella finestra di dialogo di selezione dell\'account</string>
     <string name="nc_show_ecosystem_title">Mostra il selettore delle applicazioni</string>
     <string name="nc_show_notification_warning_description">Quando le notifiche non sono impostate correttamente, mostra un avviso regolare</string>
     <string name="nc_show_notification_warning_title">Mostra avviso di notifica regolare</string>

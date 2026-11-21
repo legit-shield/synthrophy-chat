@@ -274,7 +274,6 @@
     <string name="nc_last_modified">%1$s| آخر تعديل: %2$s</string>
     <string name="nc_leave">غادر المحادثة</string>
     <string name="nc_leaving_call">مُغادرة المكالمة …</string>
-    <string name="nc_license_summary">رخصة جنو العمومية العامة ، الإصدار 3</string>
     <string name="nc_license_title">الرخصة</string>
     <string name="nc_limit_hit">%sتم الوصول إلى عدد الاحرف المسموح به</string>
     <string name="nc_lobby">ساحة الانتظار</string>

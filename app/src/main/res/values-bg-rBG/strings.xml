@@ -215,7 +215,6 @@
     <string name="nc_last_modified">%1$s Последна промяна: %2$s</string>
     <string name="nc_leave">Напускане на разговор</string>
     <string name="nc_leaving_call">Напускане на обаждането …</string>
-    <string name="nc_license_summary">GNU Генерален Публичен Лиценз, версия 3</string>
     <string name="nc_license_title">Лиценз</string>
     <string name="nc_limit_hit">Достигнато %s ограничение на знаците</string>
     <string name="nc_lobby">Лоби</string>

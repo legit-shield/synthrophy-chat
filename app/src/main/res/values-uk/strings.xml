@@ -290,7 +290,6 @@
     <string name="nc_last_modified">%1$s | Остання зміна: %2$s</string>
     <string name="nc_leave">Вийти з групи</string>
     <string name="nc_leaving_call">Завершення виклику ...</string>
-    <string name="nc_license_summary">GNU General Public License, Version 3</string>
     <string name="nc_license_title">Ліцензія</string>
     <string name="nc_limit_hit">%sсимволів лишилося</string>
     <string name="nc_lobby">Вітальня</string>

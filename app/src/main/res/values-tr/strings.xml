@@ -353,7 +353,6 @@
     <string name="nc_last_modified">%1$s | Son değişiklik: %2$s</string>
     <string name="nc_leave">Görüşmeden çık</string>
     <string name="nc_leaving_call">Çağrıdan çıkılıyor…</string>
-    <string name="nc_license_summary">GNU Genel Kamu Lisansı, 3. sürüm</string>
     <string name="nc_license_title">Lisans</string>
     <string name="nc_limit_hit">%s karakter sınırına ulaşıldı</string>
     <string name="nc_lobby">Giriş</string>
@@ -628,7 +627,7 @@
     <string name="nc_shared_location">Paylaşılan konum</string>
     <string name="nc_shortcut_conversation_deleted">Bu yazışma artık yok</string>
     <string name="nc_shortcut_created">Kısayol oluşturuldu</string>
-    <string name="nc_show_ecosystem_description">Hesap seçme iletişim kutusunda Nextcloud uygulamaları önerileri</string>
+    <string name="nc_show_ecosystem_description">Hesap seçme iletişim kutusunda Synthrophy Office uygulamaları önerileri</string>
     <string name="nc_show_ecosystem_title">Uygulama değiştiriciyi görüntüle</string>
     <string name="nc_show_notification_warning_description">Bildirimler doğru olarak ayarlanmamışsa standart uyarı görüntülensin</string>
     <string name="nc_show_notification_warning_title">Standart uyarı bildirimi görüntülensin</string>

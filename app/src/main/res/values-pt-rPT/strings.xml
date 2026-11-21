@@ -300,7 +300,6 @@
     <string name="nc_last_modified">%1$s | Última modificação: %2$s</string>
     <string name="nc_leave">Sair da conversação</string>
     <string name="nc_leaving_call">Saindo da chamada …</string>
-    <string name="nc_license_summary">GNU - Licença Pública Geral, Versão 3</string>
     <string name="nc_license_title">Licença</string>
     <string name="nc_limit_hit">O limite de %s caracteres foi atingido</string>
     <string name="nc_lobby_start_date">Esta reunião está agendada para iniciar em %1$s</string>

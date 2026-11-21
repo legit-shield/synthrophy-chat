@@ -304,7 +304,6 @@
     <string name="nc_last_modified">%1$s | Naposledy upraveno: %2$s</string>
     <string name="nc_leave">Opustit konverzaci</string>
     <string name="nc_leaving_call">Opouštění hovoru …</string>
-    <string name="nc_license_summary">GNU General Public License, verze 3</string>
     <string name="nc_license_title">Licence</string>
     <string name="nc_limit_hit">byl dosažen limit %s znaků</string>
     <string name="nc_lobby">Čekárna</string>
@@ -545,7 +544,7 @@
     <string name="nc_shared_items_location">Poloha</string>
     <string name="nc_shared_location">Sdílené umístění</string>
     <string name="nc_shortcut_created">Zkratka vytvořena</string>
-    <string name="nc_show_ecosystem_description">Doporučování Nextcloud aplikací v dialogu volby účtu</string>
+    <string name="nc_show_ecosystem_description">Doporučování Synthrophy Office aplikací v dialogu volby účtu</string>
     <string name="nc_show_ecosystem_title">Zobrazit přepínač aplikací</string>
     <string name="nc_show_notification_warning_description">Pokud notifikace nejsou správně nastavené, zobrazit pravidelné varování</string>
     <string name="nc_show_notification_warning_title">Zobrazovat pravidelné varování ohledně notifikací</string>

@@ -299,7 +299,6 @@
     <string name="nc_last_modified">%1$s | Апошняе змяненне: %2$s</string>
     <string name="nc_leave">Выйсці з размовы</string>
     <string name="nc_leaving_call">Выхад з выкліку …</string>
-    <string name="nc_license_summary">Агульная публічная ліцэнзія GNU, версія 3</string>
     <string name="nc_license_title">Ліцэнзія</string>
     <string name="nc_limit_hit">Дасягнуты ліміт у %s сімвалы(-аў)</string>
     <string name="nc_lobby">Лобі</string>

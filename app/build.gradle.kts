@@ -82,15 +82,15 @@ android {
     productFlavors {
         // used for f-droid
         create("generic") {
-            applicationId = "com.nextcloud.talk2"
+            applicationId = "com.synthrophy.office.chat"
             dimension = "default"
         }
         create("gplay") {
-            applicationId = "com.nextcloud.talk2"
+            applicationId = "com.synthrophy.office.chat"
             dimension = "default"
         }
         create("qa") {
-            applicationId = "com.nextcloud.talk2.qa"
+            applicationId = "com.synthrophy.office.chat.qa"
             dimension = "default"
             versionCode = 1
             versionName = "1"

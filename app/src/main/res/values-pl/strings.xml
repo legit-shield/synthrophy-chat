@@ -311,7 +311,6 @@
     <string name="nc_last_modified">%1$s | Ostatnio zmodyfikowany: %2$s</string>
     <string name="nc_leave">Opuść rozmowę</string>
     <string name="nc_leaving_call">Opuszczanie połączenia…</string>
-    <string name="nc_license_summary">GNU General Public License, Version 3</string>
     <string name="nc_license_title">Licencja</string>
     <string name="nc_limit_hit">Osiągnięto limit %s znaków</string>
     <string name="nc_lobby">Poczekalnia</string>
@@ -547,7 +546,7 @@
     <string name="nc_shared_location">Udostępniona lokalizacja</string>
     <string name="nc_shortcut_conversation_deleted">Ta rozmowa już nie istnieje</string>
     <string name="nc_shortcut_created">Utworzono skrót</string>
-    <string name="nc_show_ecosystem_description">Sugestie aplikacji Nextcloud w oknie wyboru konta</string>
+    <string name="nc_show_ecosystem_description">Sugestie aplikacji Synthrophy Office w oknie wyboru konta</string>
     <string name="nc_show_ecosystem_title">Pokaż przełącznik aplikacji</string>
     <string name="nc_show_notification_warning_description">Gdy powiadomienia nie są poprawnie skonfigurowane, wyświetlaj regularne ostrzeżenie</string>
     <string name="nc_show_notification_warning_title">Pokaż regularne ostrzeżenie o powiadomieniu</string>

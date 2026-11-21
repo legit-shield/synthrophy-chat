@@ -191,7 +191,6 @@
     <string name="nc_last_modified">%1$s | Viimeksi muokattu: %2$s</string>
     <string name="nc_leave">Poistu keskustelusta</string>
     <string name="nc_leaving_call">Poistutaan puhelusta…</string>
-    <string name="nc_license_summary">GNU yleinen lisenssi, versio 3</string>
     <string name="nc_license_title">Lisenssi</string>
     <string name="nc_limit_hit">%s merkin raja tuli täyteen</string>
     <string name="nc_lobby">Aula</string>

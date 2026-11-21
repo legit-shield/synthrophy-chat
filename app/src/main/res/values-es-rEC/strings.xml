@@ -215,7 +215,6 @@
     <string name="nc_last_modified">%1$s | Última modificación: %2$s</string>
     <string name="nc_leave">Dejar la conversación</string>
     <string name="nc_leaving_call">Saliendo de la llamada...</string>
-    <string name="nc_license_summary">Licencia Pública General GNU, Versión 3</string>
     <string name="nc_license_title">Licencia</string>
     <string name="nc_limit_hit">Se ha alcanzado el límite de %s caracteres</string>
     <string name="nc_lobby">Vestíbulo</string>
